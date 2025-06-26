@@ -4,6 +4,9 @@
 
 This repository contains the data analysis and machine learning models developed to address a classification problem, likely related to predicting customer behavior or status (e.g., churn prediction, lead conversion). The project focuses on building and evaluating two common classification algorithms: Logistic Regression and Random Forest, with a particular emphasis on handling class imbalance. This was a collaborative project with 3 other researchers.
 
+## For Presentation purposes
+https://www.canva.com/design/DAGrZYPOAsI/evIriptCYwT2RqwptJe1MA/edit
+
 ## Project Overview
 
 The primary goal of this project was to:
