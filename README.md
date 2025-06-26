@@ -32,7 +32,7 @@ The primary goal of this project was to:
 
 ## Repository Structure
 
-* `project3_draft_final.ipynb`: The main Jupyter Notebook containing all the code for data loading, preprocessing, model training, evaluation, and visualization.
+* `Spam_Email_Classification_EDA.ipynb`: The main Jupyter Notebook containing all the code for data loading, preprocessing, model training, evaluation, and visualization.
 * `README.md`: This file.
 * `requirements.txt`: (To be added) Lists all necessary Python libraries for running the notebook.
 
