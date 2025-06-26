@@ -77,4 +77,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or suggestions, feel free to open an issue or contact [Your Name/Email/LinkedIn Profile].
+For any questions or suggestions, feel free to open an issue or contact bryanmejiaeducation@gmail.com.
