@@ -74,10 +74,6 @@ To run this analysis locally, please follow these steps:
 * Matplotlib (for plotting)
 * Seaborn (for enhanced visualizations)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details (if you plan to add one).
-
 ## Contact
 
 For any questions or suggestions, feel free to open an issue or contact bryanmejiaeducation@gmail.com.
